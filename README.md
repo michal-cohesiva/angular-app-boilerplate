@@ -1,6 +1,6 @@
 # Angular App Boilerplate
 
-Angular app boilerplate with Grunt for frontend tasks managment and Backbone for basic styling.
+Angular app boilerplate with Grunt for frontend tasks managment and Bootstrap for basic styling.
 
 ## Install
 
