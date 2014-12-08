@@ -1,0 +1,12 @@
+{
+  "name": "angular-app-boilerplate",
+  "description": "Angular app boilerplate",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "1.2.x",
+    "angular-resource": "1.2.x",
+    "bootstrap": "~3.3.1"
+  }
+}
