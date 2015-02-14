@@ -125,7 +125,7 @@ module.exports = function(grunt) {
                     base: [
                         '<%= paths.dev %>'
                     ],
-                    middlewares: middlewareConfig
+                    middleware: middlewareConfig
                 },
             }
 
